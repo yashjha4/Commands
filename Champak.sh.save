@@ -1,0 +1,14 @@
+!#/bin/bash
+sudo -i
+mkdir "Lab Tech"
+cd "Lab Tech"
+mkdir direct{1..100} 
+tail -c 20 x textfile >> textfile2
+chmod 722 Champak.sh
+chown lolu Champak.sh
+chmod 1 Champak.sh
+./Champak.sh
+           
+ 
+
+
