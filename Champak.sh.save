@@ -1,0 +1,35 @@
+!#/bin/bash
+sudo -i
+mkdir "Lab Tech"
+cd "Lab Tech"
+mkdir direct{1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}
+mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}
+mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3}mkdir direct {1..3} mkdir "end"
+tail -20 x textfile >> textfile2
+chmod 722 Champak.sh
+chmod +x Champak.sh
+ ./[Champak].sh
+
+           
+ 
+
+
